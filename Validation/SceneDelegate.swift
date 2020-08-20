@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  ValidationExample
+//  Validation
 //
 //  Created by Belal medhat on 8/18/20.
 //  Copyright © 2020 Belal medhat. All rights reserved.
